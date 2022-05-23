@@ -19,6 +19,6 @@ public class Credit {
     private String typeCredit;
     private String dateDue;
     private String cardIssuer;
-    private String codeCVV;
+    private Integer codeCVV;
 
 }
